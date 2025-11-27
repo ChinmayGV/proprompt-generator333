@@ -1,0 +1,5 @@
+{
+  "name": "ProPrompt AI",
+  "description": "An intelligent prompt generator that transforms simple ideas into powerful, structured prompts for LLMs using Google Gemini.",
+  "requestFramePermissions": []
+}
